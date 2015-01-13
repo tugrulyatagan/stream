@@ -1,6 +1,6 @@
 # stream
 
-A simple BISS (http://en.wikipedia.org/wiki/Basic_Interoperable_Scrambling_System) decryption applicatiın with VLC's libdvbcsa (http://www.videolan.org/developers/libdvbcsa.html) library. Application reads selected MPEG transport stream from a dump .ts file and sends over network as IP multicasting. 
+A simple BISS (http://en.wikipedia.org/wiki/Basic_Interoperable_Scrambling_System) decryption applicatiın with VLC's libdvbcsa (http://www.videolan.org/developers/libdvbcsa.html) library. Application reads selected MPEG transport stream (http://en.wikipedia.org/wiki/MPEG_transport_stream) from a dump .ts file and sends over network as IP multicasting. 
 
 Command line arguments are .ts file, service ID to multicast in stream file, multicasting IP address, multicasting port, BISS key
 
